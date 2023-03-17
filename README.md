@@ -1,7 +1,8 @@
-# Smart-City-Governance Blog
-<p align = 'right'>智慧城市治理博客</p>  
-（一）项目前景和范围
-------------------------
+# Smart-City-Governance Blog  
+
+<p align = 'right'>智慧城市治理博客</p>  <br>
+
+## （一）项目前景和范围
 
 ### 系统简介：
 在现今的城市中，现代化的管理方式使得城市的治理变得更为细节化。如果以以前人传人的方式治理城市会使得数据的传递效率降低，数据丢失的可能性加大。所以我们计划设计一个智慧城市治理系统使得管理者可以更好的治理城市。本系统以城市为背景，利用城市中物联设备的音频采集功能以及城市政务云平台提供的计算资源，通过AI、大数据等技术实现对城市道路破损、违法停车、违法广告等事件的实时检测、预警和处理功能。事件上报可通过移动APP手机上报，或通过智能视频巡防自动发现上报；所有上报事件将进行统一受理，依照各部门现有事项划分体系，将提交的事件初步分类，将事件与主办部门绑定并派发至该部门；可预设事件级别、办结时限、是否督办以及处理反馈等功能。
@@ -24,11 +25,20 @@
 -------------------
 采用了问卷形式来进行涉众分析和数据采样  
 ### 问卷格式
-![image-w20](https://user-images.githubusercontent.com/128110243/225804748-79045f27-1ecf-4400-b819-fda43ad30e89.jpg)
+![image](https://user-images.githubusercontent.com/128110243/225808848-8b41a86c-f4c3-4340-bedd-215238112713.png)<br>
+![image](https://user-images.githubusercontent.com/128110243/225808870-82913859-0e01-48fc-8fa1-dc7fb960050c.png)<br>
+![image](https://user-images.githubusercontent.com/128110243/225808900-540ef88d-b753-455f-9fa2-d1799528c744.png)<br>
+![image](https://user-images.githubusercontent.com/128110243/225808916-98373a1e-1561-4ace-b85a-17954ab9473c.png)<br>
+
 ### 问卷结果（数据）
-![image-w20](https://user-images.githubusercontent.com/128110243/225804933-4e76ef51-ae16-4c65-931d-c469b28eb8b5.jpg)
+![image](https://user-images.githubusercontent.com/128110243/225808556-1aba0d17-6ba3-40db-a26f-6b02c5d66d46.png)<br>
+![image](https://user-images.githubusercontent.com/128110243/225808589-caa3b269-5192-4b30-bbf6-1ddeb4ef188b.png)<br>
+![image](https://user-images.githubusercontent.com/128110243/225808640-d51a7790-425e-47c4-ab26-407defea3b5f.png)<br>
+![image](https://user-images.githubusercontent.com/128110243/225808670-5418e714-a81c-45ef-965b-96199b3ec936.png)<br>
+![image](https://user-images.githubusercontent.com/128110243/225808710-143df7dd-cec3-4529-a094-1c3c48210dba.png)<br>
+
 ### 问卷结果（图表）
-![image](https://user-images.githubusercontent.com/128110243/225805230-b0235d37-3937-433a-a4f5-f2c485eb79c6.png)  
+![image](https://user-images.githubusercontent.com/128110243/225805230-b0235d37-3937-433a-a4f5-f2c485eb79c6.png)  <br>
 
 （三） 面谈与甲方乙方沟通
 ----------------------------
